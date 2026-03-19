@@ -6,7 +6,6 @@ app.get('/', (req, res) => {
   res.send('CI/CD Pipeline Working 🚀');
 });
 
-app.listen(port, () => {
+app.listen(port, '0.0.0.0', () => {
   console.log(`App running on port ${port}`);
 });
-
