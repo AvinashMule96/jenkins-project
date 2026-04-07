@@ -166,7 +166,6 @@ Code Push → Webhook → Jenkins Build → Deploy → Live App
 * Automated build and deployment
 * Real-time deployment using GitHub Webhooks
 * Hands-on DevOps CI/CD pipeline
-* Cloud deployment using AWS EC2
 
 ---
 
